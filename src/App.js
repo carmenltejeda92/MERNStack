@@ -7,7 +7,7 @@ import AuthPage from "./pages/AuthPage/AuthPage.jsx";
 import OrderHistoryPage from "./pages/OrderHistoryPage/OrderHistoryPage.jsx";
 import Navbar from "./components/Navbar";
 
-
+//blah blah blah
 function App() {
   const [user, setUser] = useState(getUser());
   return (
